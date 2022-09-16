@@ -1,0 +1,10 @@
+D:\Proyectos2000\vs\DarkMode\DarkMode\DarkMode\bin\Debug\DarkMode.exe.config
+D:\Proyectos2000\vs\DarkMode\DarkMode\DarkMode\bin\Debug\DarkMode.exe
+D:\Proyectos2000\vs\DarkMode\DarkMode\DarkMode\bin\Debug\DarkMode.pdb
+D:\Proyectos2000\vs\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.Form1.resources
+D:\Proyectos2000\vs\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.Properties.Resources.resources
+D:\Proyectos2000\vs\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.csproj.GenerateResource.cache
+D:\Proyectos2000\vs\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.csproj.CoreCompileInputs.cache
+D:\Proyectos2000\vs\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.exe
+D:\Proyectos2000\vs\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.pdb
+D:\Proyectos2000\vs\DarkMode\DarkMode\DarkMode\obj\Debug\DarkMode.csproj.AssemblyReference.cache
